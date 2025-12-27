@@ -1,0 +1,138 @@
+﻿Reflectie bij video.
+https://www.youtube.com/watch?v=oHf1vD5_b5I
+
+
+De presentatie begint met de twee sprekers die zichzelf introduceren. Deviant Ollam is een penetratietester en Howard Payne werkt als liftconsultant en -inspecteur. Ze openen met een duidelijke waarschuwing: probeer de handelingen die zij demonstreren niet zelf uit. Misbruik van deze informatie kan ernstige gevolgen hebben.
+Vervolgens geven ze een introductie over liften. Ze bespreken de verschillende soorten liften die er zijn, hun geschiedenis, veiligheid en evolutie. Daarna gaan ze dieper in op de verschillende modi die een lift kan hebben, aangepast aan de situatie en de plaats waar de lift zich bevindt. Zo zijn er aangepaste modi die gebruikt kunnen worden door bijvoorbeeld brandweermannen in geval van noodsituaties, of door techniekers voor het uitvoeren van onderhoud. Ook kunnen bepaalde gebruikers meer privileges krijgen, zoals een hogere prioriteit bij wie eerst bediend wordt. CEO’s of artsen kunnen zo eerder bediend worden dan andere gebruikers en ervoor zorgen dat de lift nergens anders stopt om andere passagiers binnen te laten.
+Zo komen ze tot het hoofdonderwerp van de presentatie: hoe al deze factoren een beveiligingsrisico vormen als een lift deel uitmaakt van de veiligheidsinfrastructuur. Aan de hand van persoonlijke anekdotes leggen ze uit hoe elk deel van de liftinfrastructuur misbruikt kan worden door iemand met het juiste gereedschap en de nodige knowhow. De sleutels en sloten voor het bedienen van een lift zijn vrij gemakkelijk te vinden op het internet. De controlepanelen van de lift zijn vaak toegankelijk met standaardgereedschap via de binnenkant. Het personeel weet ook vaak weinig tot niets over de werking van de liften en wie toegang mag hebben tot de infrastructuur. Dit zijn enkele voorbeelden die worden besproken om duidelijk te maken dat de veiligheidsmaatregelen van vele liften niet aangepast zijn aan een tijd waarin zowat alle informatie op het internet gevonden kan worden.
+Ze eindigen hun presentatie met nog enkele tips over hoe de beveiliging van een lift verbeterd kan worden en over wat je kunt doen mocht je zelf ooit vast komen te zitten in een lift.
+
+Ik ben altijd gefascineerd geweest door hoe dingen werken en de “alternatieve” manieren waarop ze gebruikt kunnen worden. Bij het lezen van de titel van de video was ik dan ook onmiddellijk geïnteresseerd. De presentatie stelde me dan ook zeker niet teleur. Ze brachten het onderwerp op een heel informele en duidelijke manier, en dit alles zonder zich te veel te laten afleiden door de onderbrekingen van de organisatoren. Ze wisten goed wat het publiek wilde horen en pasten hun tempo hieraan aan. Ze hielden de achtergrondinformatie bondig en maakten hun punt duidelijk met voorbeelden uit hun ervaringen, vaak met een komische noot.
+
+Het is duidelijk dat de presentatoren graag doen wat ze doen. Ze maken op een entertainende manier duidelijk wat de gevaren zijn van het vertrouwen op liften als deel van de beveiliging.
+
+
+
+
+
+
+Bste daan
+
+ter voorberijding van koment examenmoment heb ik eeen deel van de challenges gemaakt zoals opgegeven. In het algemeen vond ik dit een zeer leuke opdracht. Elk onderdeel had een duidelijke tructuur, eerst een stuk theorie/achtergrond informatie met daarna uitdagingen die gerangschikt zijn van gemmakkelijk naar moeilijk. Deze waren zeer leerijk maar ook soms wel wat frustrerent. In enkele gevallen wist ik zeker dat ik het juiste antwoort had maar toch bleft de test falen wat ik ook probeerde, vermoedelijk door de structuur. Eerst voor of achternaam, de geboortenaam,…. Het zou misschien handig zijn moest de test een indicatie geven dat bijvoordeeld een deel van het antwoord foutief is.
+
+Verder waren enkele uitdagingen wel hel moeilijk, ik hou zeker wel van een uitdaging maar bij sommige challanges hat een hint zeer welkom zijn geweest. 
+
+Dat niet alle opdrachten gemaakt moeten wrden is een 
+
+
+als voor het grote project ook dit was zeer leerrijk. Ook dat het game geelateert was was voormij een plus. Ik ben altijd een gamer geweest en heb me dan ook altijd afgevraagd hoe het allemall werkt. Deze opdracht heeft me veel bijgeleerd over hoe een game fundamenteel werkt. Ook de vrijhid om er eender wat bij te maken vond ik een plus omdat het toelaat om bij te leren over een aspect dat mij het meeste lag.
+
+Als laatste punt dat ik wilde aanhalen
+verder wlde ik u nog even wijzen op enkelle spellingsfouten in het aan-de-slag document. Ik merkte op enkele plaatsen dat er geen punctuatie was en er enkele ontbrekende leestekens waren.
+
+
+
+
+
+Beste  Daan,
+
+Ik volg toegepaste informatic via het afstantstraject en ik was bezig met de challenges over de regex toen ik het volgende tegenkwam. In de description van challange regex>04-find-pattern>04 staat het volgende:
+
+
+Accepts
+    • "a"
+    • "ap"
+    • "ab ac"
+    • "az"
+    • "a,z"
+    • "axxxz"
+    • "a159z"
+Rejects
+    • ""
+    • "a"
+    • "z"
+    • "bx"
+    • "azx"
+    • "xaz"
+
+Ik zag dat de string "a" zowel bij accepts als rejects voorkomt. Ik veronderstel dat het bedoelde patroon is dat de string moet beginnen met "a"  en dat als er een "z" in voorkomt dit het laatste karakter in de string moet zijn. Klopt het dan dat "a" enkel in de accepts colom hoort te staan​?
+Alvast bedankt!
+Met vriendelijke groeten,
+Pieter Theys
+
+
+
+Beste Daan,
+Ik volg Toegepaste Informatica via het afstandstraject en was bezig met de challenges over regex toen ik het volgende tegenkwam. In de description van de challenge regex>04-find-pattern>04 staat het volgende:
+Accepts
+    • "a"
+    • "ap"
+    • "ab ac"
+    • "az"
+    • "a,z"
+    • "axxxz"
+    • "a159z"
+Rejects
+    • ""
+    • "a"
+    • "z"
+    • "bx"
+    • "azx"
+    • "xaz"
+Ik zag dat de string "a" zowel bij accepts als bij rejects voorkomt.
+Ik veronderstel dat het bedoelde patroon is dat de string moet beginnen met "a", en dat als er een "z" in voorkomt dit het laatste karakter in de string moet zijn. Klopt het dan dat "a" enkel in de accepts-kolom hoort te staan?
+Alvast bedankt!
+Met vriendelijke groeten,
+Pieter Theys
+
+
+
+
+
+start project 26 october 15:00 – 16:30
+lezen van opdracht en begin kijken va de youtube tutorial,
+
+27 oct 15:15 – 16:15
+verder kijken youtube tutorial, download git repo repo en klaarzetten in vscode. Daarna alles toevoegen aan eigen git repo samen met de challenges. Nadenken over hoe het blackjack kan uitbrijden.
+
+28 oct 14:45 – 16:00
+herbekijken en code analyzeren voor de werking beter te begrijpen. Bedenken hoe ik het programma visueel kan verbeteren.
+
+29 oct 14:50- 17:05
+ik wil het spel uitbrijden met basic pixel art. eerst de bestaande code proberen uitbrijden zodat de kaarten niet enkel de waarde van de kaart hebben maar ook een ‘suit’.
+30 oct 15;00 -  15:50
+gelukt om functie te maken die instructies terug geeft om  een visuele representatie  van de kaart te tekenen. Dit samen met een teken functie kan de kaarten laten zien in de draw cards funtie
+
+31 oct 15:15 – 16:00
+grote en layout verandert . ??? kaart vervangen door achterkant kaart.
+1 nov 12:30 – 14:40
+grote en plaats aangepast voor betere layout, achtergrond gemaakt voor tafel, chips op tafel die de wins va de speler representeren
+
+2 nov 11:45 – 12:45
+text bubbels die verschijnen en verdwijnen om dialoog te representeren tussen speler en de dealer.  Eerst proberen om textbubbels te maken die de speler verwelkomen en het resultaat van het spel laten weten.
+
+5 nov 15:30 -  17:10
+verder werken aan textbubbels, ook enkele die enkel gebeuren in specifieke situaties. Enkel ‘yes i do’  na de intiele dialoog
+
+6 dec 12:00- 13:15
+debug probleem extra text bubbels
+
+# draw cards visually onto screen
+def draw_cards(player, dealer, reveal):
+for i in range(len(player)):
+pygame.draw.rect(screen, 'white', [70 + (70 * i), 460 + (5 * i), 120, 220], 0, 5)
+screen.blit(font.render(player[i], True, 'black'), (75 + 70 * i, 465 + 5 * i))
+screen.blit(font.render(player[i], True, 'black'), (75 + 70 * i, 635 + 5 * i))
+pygame.draw.rect(screen, 'red', [70 + (70 * i), 460 + (5 * i), 120, 220], 5, 5)
+
+# if player hasn't finished turn, dealer will hide one card
+for i in range(len(dealer)):
+pygame.draw.rect(screen, 'white', [70 + (70 * i), 160 + (5 * i), 120, 220], 0, 5)
+if i != 0 or reveal:
+screen.blit(font.render(dealer[i], True, 'black'), (75 + 70 * i, 165 + 5 * i))
+screen.blit(font.render(dealer[i], True, 'black'), (75 + 70 * i, 335 + 5 * i))
+else:
+screen.blit(font.render('???', True, 'black'), (75 + 70 * i, 165 + 5 * i))
+screen.blit(font.render('???', True, 'black'), (75 + 70 * i, 335 + 5 * i))
+pygame.draw.rect(screen, 'blue', [70 + (70 * i), 160 + (5 * i), 120, 220], 5, 5)
+
