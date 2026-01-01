@@ -109,3 +109,8 @@ Na de chip classe nog meermaals veranderd te hebben werkt nu alles. ik heb een m
 ## 26 december 1610
 
 alle code nog eens doorlopen en oude, overbodige code verwijderd. Nu ik de code nog eens heb bekeken zijn er veel dingen die ik nog zou willen aanpassen omdat ik nu meer weet en kan dan toen ik aan het project begon. veel dingen zijn niet optimaal of kunnen in bepaalde situaties op een niet bedoelde manier reageren. Ik heb echter geen tijd meer om ze aan te passen zonder over de 20 uur te gaan.
+
+
+## reactie op feedback over project
+
+op dit moment (1/1/2026) heb ik nog geen feedback ontvangen
