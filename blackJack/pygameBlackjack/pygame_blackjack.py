@@ -41,8 +41,7 @@ bubbles = []
 current_bubble_index = 0
 
 bubbles.append(TextBubble(bubble_texts[0], 100, 100, smaller_font))
-clock = pygame.time.Clock()
-dt=clock.tick(60) / 1000
+dt=timer.tick(60) / 1000 #for consistant movement, (technically not needed, fps constant)
 chip1 = Chip(start_pos=(400, -75) )
 chip2 = Chip(start_pos=(700, 300)) 
 
@@ -58,9 +57,9 @@ def deal_cards(current_hand, current_deck):
 
 # draw scores
 def draw_scores(player, dealer):
-    screen.blit(font.render(f'Score[{player}]', True, 'white'), (650, 400))
+    screen.blit(font.render(f'Score[{player}]', True, 'white'), (650, 400)) #score player
     if reveal_dealer:
-        screen.blit(font.render(f'Score[{dealer}]', True, 'white'), (650, 100))
+        screen.blit(font.render(f'Score[{dealer}]', True, 'white'), (650, 100)) #score dealer if reveal
 
 
 def draw_cards(player, dealer, reveal):
@@ -129,7 +128,7 @@ def draw_game(act, record, result):
     button_list = []
     # initially on startup 
     if not act:
-        #textbubble one after another
+        #intro textbubble one after another
         current_bubble = bubbles[current_bubble_index]
 
         if current_bubble.visible:
@@ -138,7 +137,7 @@ def draw_game(act, record, result):
                 current_bubble_index += 1
                 bubbles.append(TextBubble(
                     bubble_texts[current_bubble_index], 
-                    100, 100 + current_bubble_index * 40, 
+                    100, 100 + current_bubble_index * 40, #next bubble moves down
                 smaller_font
                 ))
             #after intro, show start button
@@ -208,7 +207,7 @@ def check_endgame(hand_act, deal_score, play_score, result, totals, add):
                 totals[1] += 1
                 if chips:
                     chips[-1].lost = True
-                    chips[-1].move_to((200,-30)) #player lost a chip
+                    chips[-1].move_to((200,-50)) #player lost a chip
                 
             elif result == 2:
                 totals[0] += 1
@@ -286,7 +285,7 @@ def render_card(screen, instructions):
 
 
 def get_card_back_instructions(surface):
-    """ pixel-art back of playing card."""
+    #back of card art
     surf = surface
 
     pattern = [

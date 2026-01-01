@@ -77,15 +77,15 @@ class Chip:
 
         if distance > 0:
             direction.normalize_ip()
-            move = self.speed * dt
+            move = self.speed * dt #pixel per frame
 
-            if move >= distance:
+            if move >= distance: #no overshoot
                 pos = target
                 self.isMoving = False
             else:
                 pos += direction * move
                 self.isMoving = True
-            self.x, self.y = pos
+            self.x, self.y = round(pos.x), round(pos.y)
             self.draw_chip()
 
 

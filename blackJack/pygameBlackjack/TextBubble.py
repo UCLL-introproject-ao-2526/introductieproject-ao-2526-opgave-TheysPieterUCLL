@@ -9,24 +9,23 @@ class TextBubble:
         self.font = font
         self.start_time = time.time()
         self.visible = True
-
+        self.padding_x = 20
+        self.padding_y = 15
        
         self.text_surface = font.render(text, True, (0,0,0))
-        padding_x, padding_y = 20, 15
         self.bubble_rect = pygame.Rect(
             x, y,
-            self.text_surface.get_width() + padding_x * 2,
-            self.text_surface.get_height() + padding_y * 2
+            self.text_surface.get_width() + self.padding_x * 2,
+            self.text_surface.get_height() + self.padding_y * 2
         )
-        self.padding_x = padding_x
-        self.padding_y = padding_y
+        
 
     def draw(self, screen):
         duration = 2
         # Hide bubble if duration is over
         elapsed = time.time() - self.start_time
         fade_time = 0.5  
-        if elapsed > duration:
+        if elapsed > duration: #if time is up, start fade
             alpha = max(0, 255 - int((elapsed - duration) / fade_time * 255))
             if alpha <= 0:
                 self.visible = False
