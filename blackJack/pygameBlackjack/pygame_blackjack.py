@@ -167,9 +167,9 @@ def draw_game(act, record, result):
         bubbles = []
 
     # first bubble (special extra if player is far ahead/behind)
-        if records[0] - records[1] >=4:
+        if records[0] - records[1] >=4 and outcome == 2:
             bubbles.append(TextBubble(txtExtra[0], 30, 120, smaller_font))
-        elif records[1] - records[0] >=4:
+        elif records[1] - records[0] >=4 and outcome in (1,3):
             bubbles.append(TextBubble(txtExtra[1], 30, 120, smaller_font))
 
     # second bubble (normal result)

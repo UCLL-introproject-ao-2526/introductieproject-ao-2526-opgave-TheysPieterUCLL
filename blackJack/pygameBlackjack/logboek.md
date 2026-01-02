@@ -113,4 +113,4 @@ alle code nog eens doorlopen en oude, overbodige code verwijderd. Nu ik de code 
 
 ## reactie op feedback over project
 
-op dit moment (1/1/2026) heb ik nog geen feedback ontvangen
+nog geen feedback ontvangen

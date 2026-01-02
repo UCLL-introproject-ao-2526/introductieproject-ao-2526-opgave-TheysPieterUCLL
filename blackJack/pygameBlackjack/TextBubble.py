@@ -32,7 +32,7 @@ class TextBubble:
                 return
         else:
             alpha = 255
-
+        #draw fading
         bubble_surface = pygame.Surface(self.bubble_rect.size, pygame.SRCALPHA)
         bubble_surface.set_alpha(alpha)
         pygame.draw.rect(bubble_surface, (255,255,255), bubble_surface.get_rect(), border_radius=15)

@@ -76,7 +76,7 @@ class Chip:
         distance = direction.length()
 
         if distance > 0:
-            direction.normalize_ip()
+            direction.normalize_ip() #vect in place with length 1
             move = self.speed * dt #pixel per frame
 
             if move >= distance: #no overshoot
@@ -85,7 +85,7 @@ class Chip:
             else:
                 pos += direction * move
                 self.isMoving = True
-            self.x, self.y = round(pos.x), round(pos.y)
+            self.x, self.y = pos #round(pos.x), round(pos.y) for "whole" pixels but gives problems when losing chips? 
             self.draw_chip()
 
 
